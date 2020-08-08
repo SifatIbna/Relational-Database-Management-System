@@ -25,7 +25,7 @@ If you follow the installation instruction , then after some step the installer 
 - ![Image](https://sp.postgresqltutorial.com/wp-content/uploads/2020/07/Install-PostgreSQL-12-Windows-Step-6.png) 
 
 To check if the installation is complete or not. Search for **psql** in windows search bar. If see a **SQL SHELL** , then the installation is complete.
-![Image](https://sp.postgresqltutorial.com/wp-content/uploads/2020/07/Install-PostgreSQL-psql.png)
+![Image](images/psql.png)
 
 Second, enter all the necessary information such as the server, database, port, username, and password. To accept the default, you can press **Enter**. Note that you should provide the password that you entered during installing the PostgreSQL.
 ```console
@@ -226,4 +226,4 @@ sudo /usr/pgadmin4/bin/setup-web.sh
 ```
 
 Now if you search in your desktop writing `pgadmin4`, you should find it. After clicking a window should open in your web browser.
-![Image](https://linuxhint.com/wp-content/uploads/2018/01/pg-7.2.png)
+![Image](images/pgadminweb.png))
