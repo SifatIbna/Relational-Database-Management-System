@@ -23,7 +23,7 @@ From Postgresql official page 32 bit and 64 bit installer is available. From the
 
 - One or Two things you have to remember though.
   If you follow the installation instruction , then after some step the installer will ask you to give passwords. Remember it's for default **superuser** named **postgres**.
-  ![windowssetup](T:\WorkSpace\Developing\Database\windowssetup.png)
+  ![windowssetup](images\windowssetup.png)
 
 - Next the installer ask you to set a port. The default port of PostgreSQL is 5432. You need to make sure that no other applications are using this port.
 
