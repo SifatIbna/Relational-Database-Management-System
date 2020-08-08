@@ -166,6 +166,8 @@ count
 ```
 So this is how you can create and connect to database
 
+## pgadmin 4
+
 There's a tool available for managing postgresql, called **pgadmin** , by which anyone can create and load database  and run any query command easily. It may be run either as a web or desktop application. Now i will show how to install pgadmin 4 on your desktop.
 
 The good news is in windows distribution pgadmin 4 comes with the installer, i mean when you installed postgre sql for windows , the installer took care of everything for you.
